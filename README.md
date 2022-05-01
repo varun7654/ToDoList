@@ -5,10 +5,13 @@ I made this so that my friends and I could keep what projects we were working on
 
 ## Features
 - List out the items on your list
+
   ![img.png](assets/img.png)
 - Information about who and when each item was created
+
   ![img_1.png](assets/img_1.png)
 - Easily add items with a simple command
+
   ![img_2.png](assets/img_2.png)
 - Easily remove items by clicking on them
 
