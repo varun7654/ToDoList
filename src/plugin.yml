@@ -1,0 +1,14 @@
+main: me.dacubeking.ToDoList.Main
+name: ToDoList
+version: 0.1
+description: create a todo list
+api-version: 1.16
+author: DaCubeKing
+permissions:
+  todolist.see:
+    description: allows you to see the todo list
+  todolist.edit:
+    description: allows you to edit the todo list
+commands:
+  ToDoList:
+    description: access the todolist commands
